@@ -27,8 +27,7 @@
 
 | **DOMAIN** | **STACK & INSTRUMENTATION** |
 | :--- | :--- |
-| **`CORE LANGUAGES`** | <img src="https://skillicons.dev/icons?i=py,cpp,c,kotlin&theme=light" height="36" alt="Languages" /> |
-| **`ROBOTICS & SIM`** | <img src="https://img.shields.io/badge/NVIDIA_Isaac_Sim-1e1e24?style=for-the-badge&logo=nvidia&logoColor=76B900" height="28"/> <img src="https://img.shields.io/badge/NVIDIA_Omniverse-ffffff?style=for-the-badge&logo=nvidia&logoColor=1e1e24" height="28"/> <img src="https://img.shields.io/badge/OpenUSD-ffb6c1?style=for-the-badge&logo=pixar&logoColor=1e1e24" height="28"/> |
+| **`CORE LANGUAGES`** | <img src="https://skillicons.dev/icons?i=py,java,php,mysql,js&theme=light" height="36" alt="Languages" /> |
 | **`AI & HARDWARE`** | <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" height="36" align="center" /> <img src="https://img.shields.io/badge/YOLOv11-1e1e24?style=for-the-badge&logo=ultralytics&logoColor=ff69b4" height="28"/> <img src="https://img.shields.io/badge/Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=1e1e24" height="28"/> <img src="https://img.shields.io/badge/Wireshark-ffb6c1?style=for-the-badge&logo=wireshark&logoColor=1e1e24" height="28"/> <img src="https://img.shields.io/badge/Roboflow-1e1e24?style=for-the-badge&logo=roboflow&logoColor=ffffff" height="28"/> |
 | **`SYSTEMS & DEVOPS`** | <img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=light" height="36" alt="DevOps" /> |
 | **`CREATIVE SUITE`** | <img src="https://skillicons.dev/icons?i=blender,ps,pr,ai&theme=light" height="36" alt="Creative" /> |
@@ -49,8 +48,4 @@
 
 <br/><br/>
 
-<code>[ OFF-THREAD ]</code> &nbsp; <i>Software reverse engineering with AI</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ffe4e8,100:ffffff&height=110&section=footer" alt="Footer" />
-
-</div>
+<code>[ OFF-THREAD ]</code> &nbsp; <i>High-fidelity IEM acoustics • Logging 600+ films • Guitar • Road cycling • Software reverse engineering with AI</i>
